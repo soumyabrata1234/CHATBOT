@@ -21,8 +21,10 @@
 
 ---
 
-🐳 Run with Docker
+## Run with Docker
+```bash
 docker run -it -e GEMINI_API_KEY=your_key soumyabrata80/chatbot
+
 
 ## 📸 Demo
 
