@@ -26,8 +26,3 @@
 docker run -it -e GEMINI_API_KEY=your_key soumyabrata80/chatbot
 
 
-## 📸 Demo
-
-```bash
-You: What is machine learning?
-Bot: Machine learning is a field of AI...
